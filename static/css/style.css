@@ -4,8 +4,9 @@
 
 body {
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background: rgb(1,0,102);
-  background: linear-gradient(233deg, rgba(1,0,102,1) 0%, rgba(29,33,253,1) 50%, rgba(69,229,252,1) 100%);  font-size: 13px;
+  background: rgb(45,45,45);
+  background: linear-gradient(325deg, rgba(45,45,45,1) 0%, rgba(0,0,0,1) 100%);
+
 }
 
 
@@ -138,34 +139,34 @@ section#arte div#PoemaseTextos h3{
 }
 
 section#arte div#Mar p{
-    color: rgb(0, 0, 161);
+    color: #fffb00;
 }
 
 section#arte div h4{
     font-size: 1.8vw;
     text-align: justify;
-    color: #002679;
+    color: #fffb00;
     line-height: 2.5rem;
     font-family: 'Courier New', Courier, monospace;
 }
 
 section#arte div#TeAmo p{
-    color: rgb(161, 0, 0);
+    color: #fffb00;
 }
 
 section#arte div#friatarde p{
-    color: rgb(102, 0, 170);
+    color: #fffb00;
     font-family: 'Courier New', Courier;
 }
 
 section#arte div#constelação p{
-    color: rgb(255, 255, 255);
+    color: #fffb00;
 }
 
 section#roteiros div h2{
     font-size: 2.5vw;
     text-align: justify;
-    color: #e75c00;
+    color: #fffb00;
     line-height: 2.9rem;
     font-family: 'Roboto Mono', monospace;
 }
@@ -173,7 +174,7 @@ section#roteiros div h2{
 section#roteiros div#Sinopse{
     font-size: 1.5vw;
     text-align: justify;
-    color: #041dff;
+    color: #fffb00;
     line-height: 2.5rem;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -181,7 +182,7 @@ section#roteiros div#Sinopse{
 section#roteiros div#sinopse2{
     font-size: 1.5vw;
     text-align: justify;
-    color: #9f00b4;
+    color: #fffb00;
     line-height: 2.5rem;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
@@ -193,7 +194,7 @@ section#comigo h3{
     width: 100%; /* H1 ocupa 100% da tela disponivel e joga o input pra outra linha */
     text-align: justify; /* centraliza o texto na tela */
     padding: 4rem; /* espaçamento interna em todos os lados de 4rem */
-    color: rgb(16, 0, 107); /* cor do texto */
+    color: #fffb00; /* cor do texto */
     font-size: 3rem; /* tamanho do texto em 3rem */
     font-family: 'Roboto Mono', monospace;
 }
@@ -211,7 +212,7 @@ section#comigo form input, textarea{
    width: 100%;
    padding: .5rem; /* espaçamento interno de .5rem no input */
    font-size: 1.2rem; /* Tamanho da fonte do texto que será digitado no input */
-   border: 1px solid #000000; /* borda do input */
+   border: 1px solid #6000b9; /* borda do input */
    outline: none; /* Tira a linha do input quando ele é clicado */
    margin: 0 0 1em;
 }
@@ -219,7 +220,7 @@ section#comigo form input, textarea{
 section#comigo form label{
     font-size: 2.5vw;
     text-align: start;
-    color: #06014b;
+    color: #fffb00;;
     line-height: 2.9rem;
     font-family: 'Roboto Mono', monospace;
 }
